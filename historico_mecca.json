@@ -1,0 +1,20 @@
+[
+  {
+    "data_hora": "24/11/2026 13:24",
+    "modelo": "kwid",
+    "motor": "1.0",
+    "ano": 2025,
+    "km": 20000,
+    "qtd_pecas": 6,
+    "status": "Cancelado"
+  },
+  {
+    "data_hora": "24/11/2026 13:13",
+    "modelo": "kwid",
+    "motor": "1.0",
+    "ano": 2020,
+    "km": 20000,
+    "qtd_pecas": 6,
+    "status": "Lançado"
+  }
+]
