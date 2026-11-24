@@ -69,7 +69,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🖥️ Como Usar
+## Como Usar
 
 1. **Preencher Dados:** Na aba **Consulta** (`⌕`), informe o **Modelo**, **Motor**, **Ano** e **Revisão (km)** do veículo agendado e clique em **Buscar peças** (ou pressione `Enter`).
 2. **Conferir Lista:** Verifique as referências, descrições e quantidades retornadas na tabela.
@@ -77,6 +77,6 @@ pip install -r requirements.txt
 
 ---
 
-## 📝 Contexto e Licença
+## Contexto e Licença
 
 Projeto desenvolvido para apoiar a rotina operacional da **Central de Agendamentos da Santa Emília Renault**, otimizando a preparação de pré-ordens de serviço (pré-OS) no setor de pós-vendas.
